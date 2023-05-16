@@ -1,0 +1,192 @@
+*{
+    text-decoration: none;
+}
+.band{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 6px #111;
+    margin-bottom: 40px;
+}
+.min{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 450px;
+    margin: 0 auto;
+}
+.h3{
+    font-size: 20px;
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+p{
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+.user{
+    width: 240px;
+    height: 25px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.pass{
+    width: 240px;
+    height: 25px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.check{
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.forg{
+    float: right;
+    margin-right: 40px;
+}
+.log{
+    background-color: purple;
+    height: 30px;
+    width: 100px;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-right: 120px;
+    float: right;
+    text-align: center;
+    display: table;
+}
+.login{
+    color: white;
+    font-size: 8px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.foot{
+    margin-top: 100px;
+}
+.icon{
+    background-color: darkblue;
+    color: white;
+    width: 70px;
+    height: 22px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.icn{
+    background-color: dodgerblue;
+    color: white;
+    width: 70px;
+    height: 22px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.pur{
+    background-color: purple;
+    width: 300px;
+    height: 450px;
+    float: right;
+    display: none;
+}
+h2{
+    color: white;
+    float: right;
+    margin-right: 40px;
+    margin-top: 90px;
+    font-size: 50px;
+    display: none;
+}@media only screen and (min-width: 1000px){
+    .band{
+        color: white;
+        font-size: 20px;
+        text-align: center;
+        text-shadow: 2px 2px 6px #111;
+        margin-bottom: 40px;
+    }
+    .min{
+        background-color: whitesmoke;
+        width: 800px;
+        height: 450px;
+        margin: 0 auto;
+    }
+    .h3{
+        font-size: 20px;
+        padding-top: 40px;
+        padding-left: 30px;
+        padding-bottom: 10px;
+    }
+    p{
+        padding-left: 30px;
+        padding-bottom: 30px;
+    }
+    .user{
+        width: 340px;
+        height: 25px;
+        margin-left: 30px;
+        margin-bottom: 20px;
+    }
+    .pass{
+        width: 340px;
+        height: 25px;
+        margin-left: 30px;
+        margin-bottom: 20px;
+    }
+    .check{
+        margin-left: 30px;
+        margin-bottom: 20px;
+    }
+    .forg{
+        float: right;
+        margin-right: 120px;
+    }
+    .log{
+        background-color: purple;
+        height: 30px;
+        width: 100px;
+        margin-top: 20px;
+        border-radius: 20px;
+        margin-right: 120px;
+        float: right;
+        text-align: center;
+        display: table;
+    }
+    .login{
+        color: white;
+        font-size: 8px;
+        display: table-cell;
+        vertical-align: middle;
+    }
+    .foot{
+        margin-top: 100px;
+    }
+    .icon{
+        background-color: darkblue;
+        color: white;
+        width: 70px;
+        height: 22px;
+        border-radius: 20px;
+        margin-left: 20px;
+    }
+    .icn{
+        background-color: dodgerblue;
+        color: white;
+        width: 70px;
+        height: 22px;
+        border-radius: 20px;
+        margin-left: 10px;
+    }
+    .pur{
+        background-color: purple;
+        width: 300px;
+        height: 450px;
+        float: right;
+        display: initial;
+    }
+    h2{
+        color: white;
+        float: right;
+        margin-right: 40px;
+        margin-top: 90px;
+        font-size: 50px;
+        display: initial;
+    }
+}
